@@ -1,3 +1,3 @@
 require("graphics/pal")
-require("units/NeonSupports")
-require("units/NeonSpecialists")
+require("units/TeriosSupports")
+require("units/TeriosSpecialists")
