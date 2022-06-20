@@ -1,3 +1,4 @@
 # Terios
-A Texture Pack similar to NeonNights, currently in alpha stage.
+A Texture Pack similar to NeonNights, currently in beta stage.
 Also known as NeonNights 2.0
+Also on Steam!
