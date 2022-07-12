@@ -1,6 +1,6 @@
 Events.on(ClientLoadEvent, b  => {
-Pal.heal = Color.valueOf("6cf5d7");
-Pal.sap = Color.valueOf("814c9e");
-Pal.sapBullet = Color.valueOf("f17afa");
-Pal.sapBulletBack = Color.valueOf("7343bf");
+Pal.heal = Color.valueOf("58F56A");
+Pal.sap = Color.valueOf("AC7CEB");
+Pal.sapBullet = Color.valueOf("846AC4");
+Pal.sapBulletBack = Color.valueOf("58579E");
 });
