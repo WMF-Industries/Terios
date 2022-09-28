@@ -1,4 +1,2 @@
 # Terios
-A Texture Pack similar to NeonNights, currently in beta stage.
-Also known as NeonNights 2.0 |
-Now on Steam!
+A Texture Pack recoloring Serpulo using Erekir palette, currently in beta stage. | Now on Steam!
