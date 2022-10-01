@@ -1,6 +1,6 @@
 name: "[scarlet]Te[orange]ri[yellow]os"
 author: "[green]W[orange]M[brown]F [yellow]Industries"
 description: Similar to NeonNights, but actually updated.
-version: "Beta"
+version: "v1"
 minGameVersion: "137"
 hidden: "true"
